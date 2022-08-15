@@ -1,15 +1,15 @@
 # Stage 0. Self-Study Kottans 2022
 ## General
-  ### Git Basics
-   #### Coursera Introduction to Git and GitHub 1 & 2 weeks
+  ### 0. Git Basics
+  - [x] **Coursera Introduction to Git and GitHub 1 & 2 weeks**
 <details><summary>Перший тиждень</summary>
-    <img src="/progress/Git Basics/Introduction to Git and GitHub week1.png" alt="Перший тиждень">
+<img src="/progress/Git Basics/Introduction to Git and GitHub week1.png" alt="Перший тиждень">
 </details>
 <details><summary>Другий тиждень</summary>
-<img src="/progress/Git Basics/Introduction to Git and GitHub week2.png" alt="Другий тиждень">
+<img src="/progress/Git Basics/Introduction to Git and GitHub week2.jpg" alt="Другий тиждень">
 </details>
 
-#### learngitbranching.js.org
+- [x] **learngitbranching.js.org**
 <details><summary>Основи: Introduction Sequence, Ramping Up</summary>
 <img src="/progress/Git Basics/Introduction Sequence.jpg" alt="Вступ Нарощування">
 </details>
