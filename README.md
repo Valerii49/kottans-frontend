@@ -17,6 +17,9 @@
 <img src="/Git Basics/Push & Pull.jpg" alt="Віддалені репозиторії в Git">
 </details>
 
+ Раніше Git не використовував. Завдяки курсу вже почав працювати над своїм проектом у двух гілках, зберігаючі у master налагоджену версію.
+Курс добре збалансований. Лекції Coursera та додаток learngitbranching.js.org добре доповнюють один одного.
+
 ------------------
 
 ## 1. Linux CLI, and HTTP
@@ -36,10 +39,11 @@
 
 - [x] **HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1**
 - [x] **HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2**
+Попрактикувався у роботі з командним рядком Linux.
 
 ------------------
 ## 2. Git Collaboration
-- [] **Coursera Introduction to Git and GitHub 3 & 4 weeks**
+- [ ] **Coursera Introduction to Git and GitHub 3 & 4 weeks**
 <details><summary>Третій тиждень</summary>
 <img src="" alt="Week_3">
 </details>
@@ -47,11 +51,11 @@
 <img src="" alt="Week_4">
 </details>
 
-- [] **learngitbranching.js.org**
+- [x] **learngitbranching.js.org**
 <details><summary>Основи: Переміщуємо роботу туди-сюди</summary>
-<img src="" alt="Переміщування">
+<img src="/task_git_collaboration/Cherry-pick & rebase.png" alt="Cherry-pick & rebase">
 </details>
 <details><summary>Віддалені репозиторії: Через origin – до зірок</summary>
-<img src="" alt="Прогресивне використання Git Remotes">
+<img src="/task_git_collaboration/Git Remotes.png" alt=" Git Remotes">
 </details>
 
