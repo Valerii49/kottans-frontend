@@ -43,12 +43,12 @@
 
 ------------------
 ## 2. Git Collaboration
-- [ ] **Coursera Introduction to Git and GitHub 3 & 4 weeks**
+- [x] **Coursera Introduction to Git and GitHub 3 & 4 weeks**
 <details><summary>Третій тиждень</summary>
-<img src="" alt="Week_3">
+<img src="/task_git_collaboration/Introduction to Git and GitHub week3.png" alt="Week_3">
 </details>
 <details><summary>Четвертий тиждень</summary>
-<img src="" alt="Week_4">
+<img src="/task_git_collaboration/Introduction to Git and GitHub week4.png" alt="Week_4">
 </details>
 
 - [x] **learngitbranching.js.org**
@@ -58,4 +58,7 @@
 <details><summary>Віддалені репозиторії: Через origin – до зірок</summary>
 <img src="/task_git_collaboration/Git Remotes.png" alt=" Git Remotes">
 </details>
+Зважиючі на коментарі в course channel Тижні, пройшов тижні 3 і початок 4 до того, як робити форк. Скоротив час при форканні  'Kottans/mock-repo'.
+
+------------------
 
