@@ -1,23 +1,23 @@
 # Stage 0. Self-Study Kottans 2022
 # Tasks
 ## General
-[0. Git Basics][]
-1. Linux CLI and Networking
-2. VCS (hello gitty), GitHub and Collaboration
+- [X] [0. Git Basics](#0-git-basics)
+- [X] [1. Linux CLI and Networking](#1-linux-cli-and-http)
+- [X] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)
 ## Front-End Basics
-3. Intro to HTML & CSS
-2. Responsive Web Design
-5. HTML & CSS Practice
-6. JavaScript Basics
-Document Object Model - practice
+- [X] [3. Intro to HTML & CSS]()
+- [] [4. Responsive Web Design]()
+- [] [5. HTML & CSS Practice]()
+- [] [6. JavaScript Basics]()
+- [] [7. Document Object Model - practice]()
 ## Advanced Topics
-Building a Tiny JS World (pre-OOP) - practice
-Object oriented JS - practice
-OOP exercise - practice
-Offline Web Applications - optional
-Memory pair game — real project!
-Website Performance Optimization - optional
-Friends App - real project!
+- [] [8. Building a Tiny JS World (pre-OOP) - practice]()
+- [] [9. Object oriented JS - practice]()
+- [] [10. OOP exercise - practice]()
+- [] [11. Offline Web Applications - optional]()
+- [] [12. Memory pair game — real project!]()
+- [] [13. Website Performance Optimization - optional]()
+- [] [14. Friends App - real project!]()
 
 # General
 ## 0. Git Basics
