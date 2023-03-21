@@ -1,25 +1,26 @@
 # Stage 0. Self-Study Kottans 2022
 # Tasks
 ## General
-- [X] [0. Git Basics](#0-git-basics)
-- [X] [1. Linux CLI and Networking](#1-linux-cli-and-http)
-- [X] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)
+- [x] [0. Git Basics](#0-git-basics)
+- [x] [1. Linux CLI and Networking](#1-linux-cli-and-http)
+- [x] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)
 ## Front-End Basics
-- [X] [3. Intro to HTML & CSS]()
-- [] [4. Responsive Web Design]()
-- [] [5. HTML & CSS Practice]()
-- [] [6. JavaScript Basics]()
-- [] [7. Document Object Model - practice]()
+- [x] [3. Intro to HTML & CSS](#3-ntro-to-html--css)
+- [ ] [4. Responsive Web Design](#)
+- [ ] [5. HTML & CSS Practice](#)
+- [ ] [6. JavaScript Basics](#)
+- [ ] [7. Document Object Model - practice](#)
 ## Advanced Topics
-- [] [8. Building a Tiny JS World (pre-OOP) - practice]()
-- [] [9. Object oriented JS - practice]()
-- [] [10. OOP exercise - practice]()
-- [] [11. Offline Web Applications - optional]()
-- [] [12. Memory pair game — real project!]()
-- [] [13. Website Performance Optimization - optional]()
-- [] [14. Friends App - real project!]()
+- [ ] [8. Building a Tiny JS World (pre-OOP) - practice](#)
+- [ ] [9. Object oriented JS - practice](#)
+- [ ] [10. OOP exercise - practice](#)
+- [ ] [11. Offline Web Applications - optional](#)
+- [ ] [12. Memory pair game — real project!](#)
+- [ ] [13. Website Performance Optimization - optional](#)
+- [ ] [14. Friends App - real project!](#)
 
 # General
+------------------
 ## 0. Git Basics
 ## Coursera Introduction to Git and GitHub 1 & 2 weeks
 <details><summary>Перший тиждень</summary>
@@ -85,6 +86,7 @@
 
 ------------------
 # Front-End Basics
+------------------
  ## 3. ntro to HTML & CSS
 ## Intro to HTML & CSS (Coursera 1 & 2 week)
   <details><summary>HTML</summary>
