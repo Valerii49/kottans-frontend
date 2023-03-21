@@ -20,7 +20,6 @@
 - [ ] [14. Friends App - real project!](#)
 
 # General
-------------------
 ## 0. Git Basics
 ## Coursera Introduction to Git and GitHub 1 & 2 weeks
 <details><summary>Перший тиждень</summary>
@@ -86,7 +85,6 @@
 
 ------------------
 # Front-End Basics
-------------------
  ## 3. ntro to HTML & CSS
 ## Intro to HTML & CSS (Coursera 1 & 2 week)
   <details><summary>HTML</summary>
@@ -103,6 +101,8 @@
 <img src="/task_html_css_intro/codecademy_learn_html.jpg" alt="Result HTML">
 <img src="/task_html_css_intro/codecademy_learn_css.jpg" alt="Result CSS">
 </details>
+
+Після перерви вирішив закінчити (пройти до кінця) Stage 0.
 
 Довідався про  quirks mode. Також раніше не використовував Entity References, може бути доцільним.
 
