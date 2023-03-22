@@ -5,8 +5,8 @@
 - [x] [1. Linux CLI and Networking](#1-linux-cli-and-http)
 - [x] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)n
 ## Front-End Basics
-- [x] [3. Intro to HTML & CSS](#3-ntro-to-html--css)
-- [ ] [4. Responsive Web Design](#)
+- [x] [3. Intro to HTML & CSS](#3-intro-to-html--css)
+- [x] [4. Responsive Web Design](#4-responsive-web-design)
 - [ ] [5. HTML & CSS Practice](#)
 - [ ] [6. JavaScript Basics](#)
 - [ ] [7. Document Object Model - practice](#)
@@ -85,9 +85,9 @@
 
 ------------------
 # Front-End Basics
- ## 3. ntro to HTML & CSS
+ ## 3. Intro to HTML & CSS
 ## Intro to HTML & CSS (Coursera 1 & 2 week)
-  <details><summary>HTML</summary>
+<details><summary>HTML</summary>
 <img src="/task_html_css_intro/Coursera_HTML.JPG" alt="Result HTML">
 </details>
 <details><summary>CSS</summary>
@@ -95,8 +95,7 @@
 </details>
 
 ## Learn HTML & CSS (codecademy)
-
-  <details><summary>HTML & CSS</summary>
+<details><summary>HTML & CSS</summary>
 <img src="/task_html_css_intro/codecademy_learn_html_css.jpg" alt="Result HTML+CSS">
 <img src="/task_html_css_intro/codecademy_learn_html.jpg" alt="Result HTML">
 <img src="/task_html_css_intro/codecademy_learn_css.jpg" alt="Result CSS">
@@ -105,5 +104,31 @@
 Після перерви вирішив закінчити (пройти до кінця) Stage 0.
 
 Довідався про  quirks mode. Також раніше не використовував Entity References, може бути доцільним.
+
+------------------
+## 4. Responsive Web Design
+## Responsive web design basics
+Тепер я знаю навішо раніше у кожні "шапці" писав:
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+## FLEXBOX. Вчимося верстати на флексах
+<details><summary>YouTube_flex</summary>
+<img src="/task_responsive_web_design/flex.JPG" alt="Zheka flexbox">
+</details>
+<details><summary>Flexbox Froggy</summary>
+<img src="/task_responsive_web_design/flexbox_froggy.JPG" alt="Result Flexbox Froggy">
+</details>
+
+Постійно дивлюся відео Жені Андріканіча. Ввважаю його кращім викладачем з верстки для початківців і не тільки. Нічого нового не дізнався бо раніше дивився вже кілька разів.
+
+## CSS Grid Layout
+<details><summary>YouTube_grid</summary> 
+<img src="/task_responsive_web_design/grid.JPG" alt="Zheka grid">
+</details>
+<details><summary>Grid Garden</summary> 
+<img src="/task_responsive_web_design/grid_garden.JPG" alt="Result Grid Garden">
+</details>
+
+Технології Grid та Flex добре доповнюють одна одну. Чув що на грідах пишуть лайаути а на флексах - компоненти. Як на мене, то все залежить від конкретного макета. Буду дивитися "по ходу життя".
 
 ------------------
