@@ -132,3 +132,8 @@
 Технології Grid та Flex добре доповнюють одна одну. Чув що на грідах пишуть лайаути а на флексах - компоненти. Як на мене, то все залежить від конкретного макета. Буду дивитися "по ходу життя".
 
 ------------------
+## 5. HTML & CSS Practice
+[Demo](https://valerii49.github.io/HTML-CSS-Practice/) |
+[Code base](https://github.com/Valerii49/HTML-CSS-Practice) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/759)
+
+------------------
