@@ -3,7 +3,7 @@
 ## General
 - [x] [0. Git Basics](#0-git-basics)
 - [x] [1. Linux CLI and Networking](#1-linux-cli-and-http)
-- [x] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)n
+- [x] [2. VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)
 ## Front-End Basics
 - [x] [3. Intro to HTML & CSS](#3-intro-to-html--css)
 - [x] [4. Responsive Web Design](#4-responsive-web-design)
@@ -135,5 +135,32 @@
 ## 5. HTML & CSS Practice
 [Demo](https://valerii49.github.io/HTML-CSS-Practice/) |
 [Code base](https://github.com/Valerii49/HTML-CSS-Practice) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/759)
+
+------------------
+## 5. JavaScript Basics
+## introduction to JavaScript
+<details><summary>Coursera: week 5</summary>
+<img src="/JS_Basic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 5">
+</details>
+
+## FreeCodeCamp
+<details><summary>Basic JavaScript</summary>
+<img src="/JS_Basic/Basic_JavaScript.JPG" alt="Basic JavaScript done">
+</details>
+<details><summary>ES6 Challenges</summary>
+<img src="/JS_Basic/ES6.JPG" alt="ES6 Challenges done">
+</details>
+<details><summary>Basic Data Structures</summary>
+<img src="/JS_Basic/Basic_Data_Structures.JPG" alt="Basic Data Structures done">
+</details>
+<details><summary>Basic Algorithm Scripting</summary>
+<img src="/JS_Basic/Basic_Algorithm_Scripting.JPG" alt="Basic Algorithm Scripting done">
+</details>
+<details><summary>Functional Programming</summary>
+<img src="/JS_Basic/Functional_Programming.JPG" alt="Basic Functional Programming done">
+</details>
+<details><summary>Algorithm Scripting Challenges</summary>
+<img src="/JS_Basic/Intermediate_Algorithm_Scripting_11.JPG" alt="Intermediate Algorithm Scripting done">
+</details>
 
 ------------------
