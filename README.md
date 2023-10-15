@@ -8,7 +8,7 @@
 - [x] [3. Intro to HTML & CSS](#3-intro-to-html--css)
 - [x] [4. Responsive Web Design](#4-responsive-web-design)
 - [x] [5. HTML & CSS Practice](#5-html--css-practice)
-- [ ] [6. JavaScript Basics](#)
+- [x] [6. JavaScript Basics]
 - [ ] [7. Document Object Model - practice](#)
 ## Advanced Topics
 - [ ] [8. Building a Tiny JS World (pre-OOP) - practice](#)
@@ -137,7 +137,7 @@
 [Code base](https://github.com/Valerii49/HTML-CSS-Practice) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/759)
 
 ------------------
-## 5. JavaScript Basics
+## 6. JavaScript Basics
 ## introduction to JavaScript
 <details><summary>Coursera: week 5</summary>
 <img src="/JS_Basic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 5">
