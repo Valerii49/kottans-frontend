@@ -140,7 +140,7 @@
 ## 6. JavaScript Basics
 ## introduction to JavaScript
 <details><summary>Coursera: week 5</summary>
-<img src="/task_js_asic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 5">
+<img src="/task_js_basic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 5">
 </details>
 
 ## FreeCodeCamp
