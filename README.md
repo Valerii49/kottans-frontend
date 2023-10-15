@@ -8,7 +8,7 @@
 - [x] [3. Intro to HTML & CSS](#3-intro-to-html--css)
 - [x] [4. Responsive Web Design](#4-responsive-web-design)
 - [x] [5. HTML & CSS Practice](#5-html--css-practice)
-- [x] [6. JavaScript Basics]
+- [x] [6. JavaScript Basics](#6-javascript-basics)
 - [ ] [7. Document Object Model - practice](#)
 ## Advanced Topics
 - [ ] [8. Building a Tiny JS World (pre-OOP) - practice](#)
