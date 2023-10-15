@@ -145,22 +145,22 @@
 
 ## FreeCodeCamp
 <details><summary>Basic JavaScript</summary>
-<img src="/task_js_asic/Basic_JavaScript.JPG" alt="Basic JavaScript done">
+<img src="/task_js_basic/Basic_JavaScript.JPG" alt="Basic JavaScript done">
 </details>
 <details><summary>ES6 Challenges</summary>
-<img src="/task_js_asic/ES6.JPG" alt="ES6 Challenges done">
+<img src="/task_js_basic/ES6.JPG" alt="ES6 Challenges done">
 </details>
 <details><summary>Basic Data Structures</summary>
-<img src="/task_js_asic/Basic_Data_Structures.JPG" alt="Basic Data Structures done">
+<img src="/task_js_basic/Basic_Data_Structures.JPG" alt="Basic Data Structures done">
 </details>
 <details><summary>Basic Algorithm Scripting</summary>
-<img src="/task_js_asic/Basic_Algorithm_Scripting.JPG" alt="Basic Algorithm Scripting done">
+<img src="/task_js_basic/Basic_Algorithm_Scripting.JPG" alt="Basic Algorithm Scripting done">
 </details>
 <details><summary>Functional Programming</summary>
-<img src="/task_js_asic/Functional_Programming.JPG" alt="Basic Functional Programming done">
+<img src="/task_js_basic/Functional_Programming.JPG" alt="Basic Functional Programming done">
 </details>
 <details><summary>Algorithm Scripting Challenges</summary>
-<img src="/task_js_asic/Intermediate_Algorithm_Scripting_11.JPG" alt="Intermediate Algorithm Scripting done">
+<img src="/task_js_basic/Intermediate_Algorithm_Scripting_11.JPG" alt="Intermediate Algorithm Scripting done">
 </details>
 
 ------------------
