@@ -9,7 +9,7 @@
 - [x] [4. Responsive Web Design](#4-responsive-web-design)
 - [x] [5. HTML & CSS Practice](#5-html--css-practice)
 - [x] [6. JavaScript Basics](#6-javascript-basics)
-- [ ] [7. Document Object Model - practice](#)
+- [x] [7. Document Object Model - practice](#7-Document-Object-Model)
 ## Advanced Topics
 - [ ] [8. Building a Tiny JS World (pre-OOP) - practice](#)
 - [ ] [9. Object oriented JS - practice](#)
@@ -139,8 +139,8 @@
 ------------------
 ## 6. JavaScript Basics
 ## introduction to JavaScript
-<details><summary>Coursera: week 5</summary>
-<img src="/task_js_basic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 5">
+<details><summary>Coursera: week 4</summary>
+<img src="/task_js_basic/Coursera_Introduction_to_Javascript.JPG" alt="Coursera week 4">
 </details>
 
 ## FreeCodeCamp
@@ -164,3 +164,17 @@
 </details>
 
 ------------------
+## 7. Document Object Model
+[Demo](https://valerii49.github.io/Document-Object-Model-practice/) |
+[Code base](https://github.com/Valerii49/Document-Object-Model-practice) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/760)
+
+
+## Document Object Model Manipulation
+<details><summary>Coursera: week 5</summary>
+<img src="/task_js_dom/Crousera_DOM_Manipulation.JPG" alt="Coursera week 5">
+</details>
+
+## FreeCodeCamp
+<details><summary>Intermediate Algorithm Scripting</summary>
+<img src="/task_js_dom/Intermediate_Algorithm_Scripting_18.JPG" alt="Intermediate Algorithm Scripting done">
+</details>
