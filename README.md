@@ -11,7 +11,7 @@
 - [x] [6. JavaScript Basics](#6-javascript-basics)
 - [x] [7. Document Object Model - practice](#7-Document-Object-Model)
 ## Advanced Topics
-- [ ] [8. Building a Tiny JS World (pre-OOP) - practice](#)
+- [x] [8. Building a Tiny JS World (pre-OOP) - practice](#8-Building-a-Tiny-JS-World-(pre-OOP))
 - [ ] [9. Object oriented JS - practice](#)
 - [ ] [10. OOP exercise - practice](#)
 - [ ] [11. Offline Web Applications - optional](#)
@@ -178,3 +178,10 @@
 <details><summary>Intermediate Algorithm Scripting</summary>
 <img src="/task_js_dom/Intermediate_Algorithm_Scripting_18.JPG" alt="Intermediate Algorithm Scripting done">
 </details>
+
+------------------
+## 8. Building a Tiny JS World (pre-OOP)
+[Demo](https://valerii49.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/Valerii49/a-tiny-JS-world/tree/work-branch) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/761)
+
+------------------
