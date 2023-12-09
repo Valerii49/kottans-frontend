@@ -11,7 +11,7 @@
 - [x] [6. JavaScript Basics](#6-javascript-basics)
 - [x] [7. Document Object Model - practice](#7-Document-Object-Model)
 ## Advanced Topics
-- [x] [8. Building a Tiny JS World (pre-OOP) - practice](#8-Building-a-Tiny-JS-World-(pre-OOP))
+- [x] [8. Building a Tiny JS World (pre-OOP) - practice](#8-building-a-tiny-js-world-pre-oop)
 - [ ] [9. Object oriented JS - practice](#)
 - [ ] [10. OOP exercise - practice](#)
 - [ ] [11. Offline Web Applications - optional](#)
